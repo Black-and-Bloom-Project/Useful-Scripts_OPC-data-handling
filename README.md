@@ -1,6 +1,7 @@
 # Useful Scripts: OPC data handling
 
 Version of this script: v07 (last update: 25 November 2020)
+
 Author: Nuno Canha
 
 # Goal of the script:
