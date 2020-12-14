@@ -15,4 +15,7 @@ The output of script provides:
 - database with all the data (averaged to 1 hour frequency) for number and mass concentrations - csv file
 - database with hourly data for the 6 integrated bins
 
-Remarks: This script focus on the data treatment of OPC data from 2016 (B&B) and it provides an update for stacked bar plot (or area plot, in this case).
+Remarks:
+- This script focus on the data treatment of OPC data from 2016 (B&B) and it provides an update for stacked bar plot (or area plot, in this case).
+- The input file is called "raw data.csv" (it is possible to download as an example)
+- The script manually specify the target bin sizes.
